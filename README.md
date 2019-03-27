@@ -8,7 +8,7 @@ Direct Link to CSS
 
 #### Sample PDF 
 
-[View Sample PDF](https://github.com/sandeeprenjith/CSS-for-PDF/raw/master/Sample.pdf)
+[Download Sample PDF](https://github.com/sandeeprenjith/CSS-for-PDF/raw/master/Sample.pdf)
 
 #### Additional info
 
