@@ -15,7 +15,7 @@ Direct Link to CSS
 Command to generate PDF from markdown using pandoc (on Windows)
 
 ```
-pandoc -f markdown -t html5 -o "Sample.pdf" --css pdf.css .\sample-pdf.md
+pandoc -f markdown -t html5 -o "Sample.pdf" --css https://raw.githubusercontent.com/sandeeprenjith/CSS-for-PDF/master/pdf.css .\sample-pdf.md
 ```
 
 ```
